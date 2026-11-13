@@ -1,0 +1,72 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  color: #1f2328;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.25rem;
+}
+
+#repo-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.repo {
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 1rem;
+}
+
+.repo-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.repo-name {
+  font-weight: 600;
+  color: #0969da;
+  text-decoration: none;
+}
+
+.repo-name:hover {
+  text-decoration: underline;
+}
+
+.repo-owner {
+  color: #57606a;
+  font-size: 0.875rem;
+}
+
+.repo-description {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: #57606a;
+}
+
+.repo-meta {
+  margin-top: 0.75rem;
+  font-size: 0.8rem;
+  color: #57606a;
+  display: flex;
+  gap: 1rem;
+}
+
+.language-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 0.3rem;
+  background-color: #8250df;
+}
