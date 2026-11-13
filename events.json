@@ -1,0 +1,42 @@
+[
+  {
+    "name": "react",
+    "owner": "facebook",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 229000,
+    "url": "https://github.com/facebook/react"
+  },
+  {
+    "name": "vscode",
+    "owner": "microsoft",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "language": "TypeScript",
+    "stars": 162000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "tensorflow",
+    "owner": "tensorflow",
+    "description": "An open source machine learning framework for everyone.",
+    "language": "C++",
+    "stars": 186000,
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "name": "vue",
+    "owner": "vuejs",
+    "description": "The progressive JavaScript framework for building user interfaces on the web.",
+    "language": "TypeScript",
+    "stars": 208000,
+    "url": "https://github.com/vuejs/vue"
+  },
+  {
+    "name": "pytorch",
+    "owner": "pytorch",
+    "description": "Tensors and dynamic neural networks in Python with strong GPU acceleration.",
+    "language": "Python",
+    "stars": 83000,
+    "url": "https://github.com/pytorch/pytorch"
+  }
+]
